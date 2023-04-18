@@ -1,1 +1,1 @@
-# BooMyHotel-Backend
+# BookMyHotel
